@@ -1,1 +1,0 @@
-print("Hello, this is demo for my cute bear sissy!!")
